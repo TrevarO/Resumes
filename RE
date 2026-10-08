@@ -1,0 +1,34 @@
+Trevar O'Neill
+San Francisco, CA  •  Trevaroneill@gmail.com
+PROFESSIONAL SUMMARY
+Real estate and finance professional with experience analyzing investment performance across a 100+ property portfolio, including underwriting and due diligence, sourcing and reviewing contractor bids/scopes, and supporting owners’ buy/sell decisions. Currently responsible for conducting end-to-end financial planning for a multi-million dollar contracting business, including cash flow forecasting, company wide and job level P&L modeling, budget to actual variance analysis, and quarterly reporting for management and stakeholders. Proven ability to build financial processes from the ground up, evaluate asset level profitability, and translate market and property data into clear actionable investment recommendations. Strong analytical foundation with a B.A. in Business Management Economics from UC Santa Cruz, advanced Excel modeling skills, and a systems first approach to problem solving.
+CORE COMPETENCIES
+Financial Forecasting & Cash Flow Planning  •  Budget to Actual Variance Analysis  •  Job Costing & Project P&L  •  Quarterly KPI Reporting  •  Cost Driver Analysis & Spend Optimization  •  Advanced Excel Modeling (VLOOKUP, Pivot Tables)  •  QuickBooks  •  Cross functional Stakeholder Partnering  •  Process Automation & Workflow Design  •  Data Analysis & Dashboard Reporting
+PROFESSIONAL EXPERIENCE
+Operations & Finance Manager  •  O'Neill's Green Services Inc.  •  Livermore, CA  |  Jul 2024 – Present
+Automated invoice and receipt processing using AI and OCR workflows, eliminating roughly 15 hours per week of manual labor, saving approximately $20,000 annually by replacing a dedicated role
+Led weekly financial planning reviews covering accounts receivable, payable, active job cash flow, subcontractor and supplier payment forecasting, and payroll timing to produce forward looking cash position summaries for ownership decision making
+Built and maintained job cost models across 20 concurrent projects per month, incorporating labor hours, labor rates, materials, subcontractor costs, permits, and COGS to track project level profitability and surface cost variances in real time
+Prepared quarterly business performance reports covering financial KPIs, cost trends, and operational metrics for senior leadership, drawing from QuickBooks, job cost models, and field reporting
+Analyzed installer and vendor performance data to identify cost inefficiencies, including pricing discrepancies and productivity gaps, and presented findings to ownership to guide procurement and staffing decisions
+Oversaw full cycle bookkeeping including month end close, accounts payable and receivable, payroll coordination, and tax preparation support for a $3.8M operation with 15 employees
+Real Estate Analyst / Asset Manager  •  Ace Properties LLC  •  Sacramento, CA  |  Nov 2022 – Jul 2024
+Tracked and managed 100+ portfolio of single-family and small multi-unit properties daily in Salesforce, coordinating directly with vendors and property managers on repair approvals, contractor bids, and unit turnovers to minimize vacancy 
+Evaluated new acquisitions by estimating rehab costs, all-in costs, and after repair values, sourcing comparable rent and sales to prepare properties for holding or distribution to our network of investors 
+Met daily with management to review property budgets, rehab progress, and overall portfolio performance
+Analyzed market trends and property financials to support buy and sell decisions
+Real Estate Investment Manager  •  Self-Employed  •  California  |  Jul 2022 – Present
+Manage the investment lifecycle for a rental property including financial modeling, renovation budgeting, contractor coordination, leasing, and ongoing cash flow reporting
+Performed capital improvements, including the roof replacement and full interior upgrades, to increase the property’s value while managing the mortgage debt service and financing terms against cash flow
+Oversee landlord operations including leasing, insurance, and California landlord-tenant law compliance, sustaining two years of continuous occupancy
+Build operating budgets, ROI projections, and cash flow models to guide investment decisions
+Autonomous Vehicle Specialist  •  Transdev / Waymo  •  San Francisco, CA  |  Oct 2021 – Nov 2022
+Operated and monitored autonomous vehicle systems in live urban environments with strict safety and data integrity protocols
+Provided feedback on software and hardware components to maintain deployment readiness and support iterative product testing
+EDUCATION
+B.A. Business Management Economics  —  University of California, Santa Cruz  |  2021
+Relevant Coursework: Econometrics  •  Statistics  •  Calculus I & II  •  Business Finance
+A.S. Business Management  —  Las Positas College  |  2019
+TECHNICAL SKILLS
+QuickBooks  •  Advanced Excel (VLOOKUP, Pivot Tables, financial modeling)  •  Google Sheets  •  PowerPoint  •  Python (data analysis)  •  Workflow Automation (n8n, Zapier)  •  OCR & Document Processing  •  CRM Platforms (HubSpot, Salesforce)  •  WordPress  •  Remote Collaboration Tools
+
